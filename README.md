@@ -18,12 +18,6 @@
     
 </p>
 
-<details>
-    
-</details>
 
-<details>
-   
-</details>
 
 ![Imagem Rodapé](./.github/assets/logo-rodape.png)
